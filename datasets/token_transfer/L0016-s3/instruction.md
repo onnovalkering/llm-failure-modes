@@ -1,0 +1,62 @@
+Below are facts about three tokens. `owns(X, t)` means X holds token t at step 0.
+`transfers(X, t, Y)` at step n means X gives token t to Y at step n. The facts are listed
+in random order; the step number gives the time order.
+
+Who holds `red_token` after the last step?
+
+Work this out by reading the facts yourself. Do not write or run scripts or programs to
+compute the answer. Write only the name to `/app/answer.txt`.
+
+```
+step 36: transfers(Peggy, blue_token, Grace)
+step 29: transfers(Erin, red_token, Carol)
+step 37: transfers(Grace, blue_token, Victor)
+step 31: transfers(Niaj, green_token, Dave)
+step 40: transfers(Dave, green_token, Erin)
+step 30: transfers(Carol, red_token, Alice)
+step 17: transfers(Judy, green_token, Grace)
+step 23: transfers(Olivia, red_token, Erin)
+step 22: transfers(Wendy, blue_token, Judy)
+step 25: transfers(Judy, blue_token, Erin)
+step 11: transfers(Trent, green_token, Frank)
+step 2: transfers(Dave, blue_token, Trent)
+step 9: transfers(Ivan, blue_token, Victor)
+step 38: transfers(Rupert, red_token, Mallory)
+step 19: transfers(Victor, blue_token, Wendy)
+step 20: transfers(Grace, green_token, Uma)
+step 42: transfers(Niaj, blue_token, Mallory)
+step 39: transfers(Victor, blue_token, Niaj)
+step 10: transfers(Frank, green_token, Trent)
+step 46: transfers(Uma, red_token, Peggy)
+step 18: transfers(Judy, red_token, Olivia)
+step 0: owns(Alice, green_token)
+step 43: transfers(Mallory, blue_token, Erin)
+step 35: transfers(Dave, blue_token, Peggy)
+step 21: transfers(Uma, green_token, Dave)
+step 33: transfers(Alice, red_token, Trent)
+step 32: transfers(Uma, blue_token, Dave)
+step 0: owns(Dave, blue_token)
+step 4: transfers(Dave, red_token, Peggy)
+step 7: transfers(Erin, green_token, Frank)
+step 0: owns(Sybil, red_token)
+step 8: transfers(Trent, blue_token, Ivan)
+step 24: transfers(Dave, green_token, Victor)
+step 12: transfers(Peggy, red_token, Mallory)
+step 34: transfers(Trent, red_token, Rupert)
+step 13: transfers(Frank, green_token, Judy)
+step 1: transfers(Sybil, red_token, Dave)
+step 41: transfers(Erin, green_token, Rupert)
+step 28: transfers(Mallory, blue_token, Uma)
+step 3: transfers(Alice, green_token, Trent)
+step 14: transfers(Mallory, red_token, Erin)
+step 48: transfers(Peggy, red_token, Rupert)
+step 45: transfers(Rupert, green_token, Niaj)
+step 44: transfers(Mallory, red_token, Uma)
+step 27: transfers(Erin, blue_token, Mallory)
+step 6: transfers(Sybil, green_token, Erin)
+step 5: transfers(Trent, green_token, Sybil)
+step 47: transfers(Erin, blue_token, Wendy)
+step 26: transfers(Victor, green_token, Niaj)
+step 15: transfers(Erin, red_token, Niaj)
+step 16: transfers(Niaj, red_token, Judy)
+```

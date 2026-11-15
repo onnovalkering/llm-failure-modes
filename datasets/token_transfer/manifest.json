@@ -1,0 +1,182 @@
+{
+  "L0004-s1": {
+    "L": 4,
+    "seed": 1,
+    "answer": "Victor",
+    "heuristic_last_listed": "Mallory"
+  },
+  "L0004-s2": {
+    "L": 4,
+    "seed": 2,
+    "answer": "Bob",
+    "heuristic_last_listed": "Bob"
+  },
+  "L0004-s3": {
+    "L": 4,
+    "seed": 3,
+    "answer": "Wendy",
+    "heuristic_last_listed": "Frank"
+  },
+  "L0004-s4": {
+    "L": 4,
+    "seed": 4,
+    "answer": "Peggy",
+    "heuristic_last_listed": "Trent"
+  },
+  "L0004-s5": {
+    "L": 4,
+    "seed": 5,
+    "answer": "Mallory",
+    "heuristic_last_listed": "Trent"
+  },
+  "L0016-s1": {
+    "L": 16,
+    "seed": 1,
+    "answer": "Olivia",
+    "heuristic_last_listed": "Carol"
+  },
+  "L0016-s2": {
+    "L": 16,
+    "seed": 2,
+    "answer": "Heidi",
+    "heuristic_last_listed": "Niaj"
+  },
+  "L0016-s3": {
+    "L": 16,
+    "seed": 3,
+    "answer": "Rupert",
+    "heuristic_last_listed": "Judy"
+  },
+  "L0016-s4": {
+    "L": 16,
+    "seed": 4,
+    "answer": "Niaj",
+    "heuristic_last_listed": "Alice"
+  },
+  "L0016-s5": {
+    "L": 16,
+    "seed": 5,
+    "answer": "Trent",
+    "heuristic_last_listed": "Mallory"
+  },
+  "L0032-s1": {
+    "L": 32,
+    "seed": 1,
+    "answer": "Alice",
+    "heuristic_last_listed": "Carol"
+  },
+  "L0032-s2": {
+    "L": 32,
+    "seed": 2,
+    "answer": "Uma",
+    "heuristic_last_listed": "Carol"
+  },
+  "L0032-s3": {
+    "L": 32,
+    "seed": 3,
+    "answer": "Judy",
+    "heuristic_last_listed": "Judy"
+  },
+  "L0032-s4": {
+    "L": 32,
+    "seed": 4,
+    "answer": "Carol",
+    "heuristic_last_listed": "Sybil"
+  },
+  "L0032-s5": {
+    "L": 32,
+    "seed": 5,
+    "answer": "Trent",
+    "heuristic_last_listed": "Trent"
+  },
+  "L0064-s1": {
+    "L": 64,
+    "seed": 1,
+    "answer": "Grace",
+    "heuristic_last_listed": "Grace"
+  },
+  "L0064-s2": {
+    "L": 64,
+    "seed": 2,
+    "answer": "Grace",
+    "heuristic_last_listed": "Uma"
+  },
+  "L0064-s3": {
+    "L": 64,
+    "seed": 3,
+    "answer": "Alice",
+    "heuristic_last_listed": "Sybil"
+  },
+  "L0064-s4": {
+    "L": 64,
+    "seed": 4,
+    "answer": "Niaj",
+    "heuristic_last_listed": "Wendy"
+  },
+  "L0064-s5": {
+    "L": 64,
+    "seed": 5,
+    "answer": "Rupert",
+    "heuristic_last_listed": "Erin"
+  },
+  "L0128-s1": {
+    "L": 128,
+    "seed": 1,
+    "answer": "Peggy",
+    "heuristic_last_listed": "Bob"
+  },
+  "L0128-s2": {
+    "L": 128,
+    "seed": 2,
+    "answer": "Carol",
+    "heuristic_last_listed": "Victor"
+  },
+  "L0128-s3": {
+    "L": 128,
+    "seed": 3,
+    "answer": "Frank",
+    "heuristic_last_listed": "Frank"
+  },
+  "L0128-s4": {
+    "L": 128,
+    "seed": 4,
+    "answer": "Peggy",
+    "heuristic_last_listed": "Rupert"
+  },
+  "L0128-s5": {
+    "L": 128,
+    "seed": 5,
+    "answer": "Victor",
+    "heuristic_last_listed": "Grace"
+  },
+  "L0256-s1": {
+    "L": 256,
+    "seed": 1,
+    "answer": "Ivan",
+    "heuristic_last_listed": "Dave"
+  },
+  "L0256-s2": {
+    "L": 256,
+    "seed": 2,
+    "answer": "Peggy",
+    "heuristic_last_listed": "Rupert"
+  },
+  "L0256-s3": {
+    "L": 256,
+    "seed": 3,
+    "answer": "Victor",
+    "heuristic_last_listed": "Heidi"
+  },
+  "L0256-s4": {
+    "L": 256,
+    "seed": 4,
+    "answer": "Grace",
+    "heuristic_last_listed": "Frank"
+  },
+  "L0256-s5": {
+    "L": 256,
+    "seed": 5,
+    "answer": "Ivan",
+    "heuristic_last_listed": "Dave"
+  }
+}

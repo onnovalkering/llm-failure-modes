@@ -1,0 +1,5 @@
+model,L0004,L0016,L0032,L0064,L0128,L0256
+google/gemini-3.1-flash-lite,1.0,1.0,1.0,1.0,0.8,1.0
+google/gemma-4-26b-a4b-it,0.6,0.4,0.6,0.6,0.2,0.0
+mistralai/ministral-8b-2512,0.2,0.2,0.0,0.0,0.2,0.0
+openai/gpt-oss-20b,1.0,1.0,1.0,1.0,0.8,1.0
